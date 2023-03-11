@@ -1,12 +1,12 @@
 {
-  "name": "sig-template",
-  "description": "DIF SIG Profile Template",
+  "name": "sig-korea",
+  "description": "DIF Korea SIG Profile Template",
   "version": "0.0.1",
-  "homepage": "https://paul-yellowpink.github.io/SIG-template",
+  "homepage": "https://decentralized-identity.github.io/SIG-Korea",
   "license": "Apache 2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/paul-yellowpink/SIG-template"
+    "url": "git://github.com/decentralized-identity/SIG-korea"
   },
   "dependencies": {
     "markdown-it": "^9.1.0",
